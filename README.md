@@ -206,7 +206,7 @@ Now, you can start serving your app with FastBoot:
 * [ember.js](http://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * [Ember Data](https://github.com/emberjs/data)
-* [Drupal JSON API module](http://https://www.drupal.org/project/jsonapi/)
+* [Drupal JSON API module](https://www.drupal.org/project/jsonapi/)
 * [ember-waterwheel-app](https://github.com/acquia/ember-waterwheel-app)
 * [JSON API specification](http://jsonapi.org/format/)
 * Ember development browser extensions:
